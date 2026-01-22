@@ -1,5 +1,5 @@
 ```markdown
-# 🗳️ Election Integrity MAS (Multi-Agent System)
+# 🗳️ Misinformation Detection System on Indian Elections
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![Qdrant](https://img.shields.io/badge/Vector_DB-Qdrant-red.svg)](https://qdrant.tech/)
