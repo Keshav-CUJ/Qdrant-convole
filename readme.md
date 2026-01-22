@@ -1,4 +1,4 @@
-# 🗳️ Misinformation Detection System for Indian Elections
+#  Misinformation Detection System for Indian Elections
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![Qdrant](https://img.shields.io/badge/Vector_DB-Qdrant-red.svg)](https://qdrant.tech/)
