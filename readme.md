@@ -151,7 +151,7 @@ We use a **Deterministic ID** approach for Long-Term Memory (LTM).
 
 ## 📄 Documentation
 
-For a detailed deep-dive into the embedding strategies and Qdrant configuration, open [`docs/index.html`](https://www.google.com/search?q=docs/index.html) in your browser.
+For a detailed deep-dive into the embedding strategies and Qdrant configuration, open [`docs/index.html`](https://keshav-cuj.github.io/Info_on_Qdrant_MAS/) in your browser.
 
 ---
 
