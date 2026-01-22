@@ -1,4 +1,4 @@
-# 🗳️ Misinformation Detection System on Indian Elections
+# 🗳️ Misinformation Detection System for Indian Elections
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![Qdrant](https://img.shields.io/badge/Vector_DB-Qdrant-red.svg)](https://qdrant.tech/)
@@ -51,14 +51,14 @@ graph LR
 ## 🛠️ Tech Stack
 
 * **Orchestration:** LangGraph, LangChain
-* **Vector Database:** Qdrant (Self-hosted or Cloud)
+* **Vector Database:** Qdrant (Self-hosted or Cloud) for memory and data.
 * **Embeddings:**
 * *Text:* `intfloat/multilingual-e5-base` (768d)
 * *Image:* `clip-ViT-B-32` (512d)
 * *Sparse:* FastEmbed (BM25)
 
 
-* **LLM:** OpenAI GPT-4o / Google Gemini 1.5 Flash
+* **LLM:** Google Gemini 2.5 Flash
 * **CLI:** Typer & Rich (for the interactive terminal UI)
 
 ---
@@ -75,30 +75,24 @@ cd mas-election-agent
 
 2. **Install Dependencies**
 ```bash
+python3 -m venv .venv
+.venv\Scripts\activate
 pip install -r requirements.txt
 
 ```
 
 
 3. **Environment Setup**
-Create a `.env` file in the root directory:
-```ini
-OPENAI_API_KEY=sk-...
-# OR
-GOOGLE_API_KEY=AIza...
+Change the `env.example` file to `.env` and fill in the values:
 
-QDRANT_CLUSTER_ENDPOINT=[https://xyz.qdrant.tech](https://xyz.qdrant.tech)
-QDRANT_API_KEY=your_qdrant_key
-
-```
 
 
 4. **Initialize Database**
 Run the setup scripts to create collections and load initial manuals.
 ```bash
-python setup_memory_db.py  # Creates 'user_profiles'
-# python setup_knowledge_db.py # (Optional: Loads manuals if you have the script)
-
+cd setup
+python create_memory.py  # Creates 'user_profiles'
+python populate_qdrant.py  # Creates 'data points'
 ```
 
 
@@ -111,10 +105,11 @@ Run the Interactive CLI Application:
 
 ### 1. Standard Mode (with UI)
 
-Automatically logs you in (default user: `officer_keshav`) and hides raw logs behind a spinner.
+log yourself in and hide raw logs behind a spinner.
 
 ```bash
-python src/cli.py
+cd ../ 
+python cli.py
 
 ```
 
@@ -123,7 +118,7 @@ python src/cli.py
 Shows the internal thought process (Nodes, Plans, Search Results) in real-time. Great for judging/demos.
 
 ```bash
-python src/cli.py --logs
+python cli.py --logs
 
 ```
 
@@ -136,7 +131,10 @@ Inside the chat, you can use:
 * `/image <path>` - Attach an image to your query.
 * *Example:* `/image assets/broken_seal.jpg Is this seal valid?`
 
+### 👨‍💻 Some sample quries
 
+*  https://github.com/Keshav-CUJ/Qdrant-convole/raw/main/images/EVMbackpack.png is this man stealing evm.
+*  A digital news channel claimed that during Presidential Elections 2022, votes casted for Smt. Droupadi Murmu were declared invalid, give me proper evidence.
 
 ---
 
@@ -159,8 +157,4 @@ For a detailed deep-dive into the embedding strategies and Qdrant configuration,
 
 ### 👨‍💻 Author
 
-Built for the Convolve 4.0 2026.
-
-```
-
-```
+Built for the Convolve 4.0 2026 by Keshav Bhatt.
