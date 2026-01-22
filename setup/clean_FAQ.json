@@ -1,0 +1,165 @@
+[
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "text_content": "EVM stands for Electronic Voting Machine. It is a device used to electronically record and count votes cast in elections. The Indian Electronic Voting Machine (EVM) system is also termed as ECI-EVM , meaning an EVM specifically designed, manufactured and used for Elections as per election procedure and rules framed by Election Commission of India and documented in manual on EVM , so as to differentiate it from EVMs used in other countries. ECI-EVM consists of Ballot Unit ( BU ), Control Unit ( CU ) and the later added Voter Verifiable Paper Audit Trail ( VVPAT ). EVMs come under the overall category of DRE voting machines, or Direct Recording Electronic voting machine systems, which is one of the many voting methodologies available worldwide. ECI-EVMs are considered more efficient and accurate than paper ballots, as they eliminate the possibility of invalid votes due to unclear or improperly marked (stamped) paper ballots, reduce the time required for counting and ensure that a vote is registered for a single candidate only. For detailed information on various aspects of ECI-EVM , the following documents may be referred: The Presentation on EVM booklet is a short comprehensive guide on ECI-EVMs . Starting with a historical perspective it covers the technical safeguards and administrative safeguards , procedures governing the secure design , production , transportation storage and deployment of EVMs in elections. The transparent administrative processes ofECIsolicit the presence and participation of recognised political parties at all stages of EVM deployment . The presentation covers the debate around EVMs and the oft-repeated and misplaced international comparisons. A few slides also cover the Judicial scrutiny the EVM has endured and passed with flying colours. The Manual on EVM contains the gist of all-important instructions on use of BU, CU and VVPAT and serves as a ready reference. The Manual is divided into four parts. Part 1 covers Storage process and Movement of EVM during Election and Non-election period, First Level Checking , First Randomisation and Training and Awareness on EVMs. Part 2 covers all processes from Second randomisation to Counting of Votes . Part 3 gives the historical perspective and legal perspective and Part 4 contains Annexures and reporting Formats. ECI takes special care through pre-poll First Level Checking ( FLC ) before conducting poll to ensure that EVMs to be used are fit for use in elections. A very secure process of handling EVMs in poll is followed with participation of recognised political parties / candidates/their representatives. The EVM Storage and Movement of EVM is done through EVM Management System ( EMS ) to ensure efficient management and control of ECI-EVMstock. The booklet Status Paper on EVM covers in brief the journey of EVMs in India since its conceptualisation in 1977 to the present along with the socio-political feedback on introduction of EVMs. It also highlights various legal interventions and court cases in its long journey of over four decades. The role of Technical Expert Committee , and various aspects such as design and manufacturing protocol , EVM safety and security features , and stringent administrate procedure for handing EVMs along with International comparison . Appendix 1 and 2 of this booklet provide some interesting facts on use of EVMs in elections which clearly bring out all possible permutations of electoral outcomes both favouring and disfavouring National and State Political Parties. The Legal History of EVMs booklet provides a useful insight into EVM inception and milestones , first usage of EVM , Legislative amendment to enable usage of EVM , Legal provisions regarding EVM&VVPAT , and Judicial Decisions on EVM & VVPAT",
+      "category": "Information on EVM & VVPAT",
+      "topic_tags": [
+        "EVM Technical Details",
+        "VVPAT Technical Details"
+      ],
+      "evidence_media": [
+        {
+          "media_type": "image",
+          "media_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOU6nr54x6UhqzzFBrX4IDf4wygnmhVtFerQ&s",
+          "description": "Image shows EVM and VVPAT"
+        },
+        {
+          "media_type": "video",
+          "media_url": "https://www.youtube.com/watch?v=BtsyBetcCCs",
+          "description": "This film is for training and familiarizing the various Election officials, functionaries and stakeholders with EVM and VVPAT Machines."
+        }
+      ],
+      "actionable_intent": "Spread_correct_info"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "text_content": "The cost of CU, BU and VVPAT is finalised by the Price Negotiation Committee constituted by the Government of India. The present cost of a BU is Rs.7,991/-, CU is Rs.9,812/- and VVPAT is Rs.16,132/-. The economic life of EVMs is approximately 15 years.",
+      "category": "Information on EVM & VVPAT",
+      "topic_tags": [
+        "EVM Price",
+        "VVPAT Price"
+      ],
+      "evidence_media": [
+        {
+          "media_type": "pdf",
+          "media_url": "https://www.eci.gov.in/eci-backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfXbEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2FzVx8fLfn2ReU7TfrqYobgIkdEHWX9ACxJNMml8yLb2ntu30r5vkFINDDv68Ej8%2BqrkA1aSdxCBZwXyXF2UoBgHZ8eNBgMDK%2BJCvUd6uvipvh04W2f3feJzPQw56J6zG%2Bx",
+          "description": "Official detailed manual on EVMs"
+        }
+      ],
+      "actionable_intent": "Spread_correct_info"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "text_content": "Mandatory verification of VVPAT slips of randomly selected 05 polling stations per Assembly Constituency/each Assembly Segment of Parliament Constituency.\n\n2.On Need Basis\n\nIn case of non-clearance of mock poll data/slips or mismatch of votes polled in CU and Form-17C, the printed VVPAT slips are counted of respective polling station(s), if winning margin is less than total votes polled in such CU(s).\n\nIf any candidate, or in his absence, his election agent or any of his counting agents make a written request to count the printed paper slips of the VVPAT in respect of any polling station or polling stations under Rule 56 D of the Conduct of Elections Rules 1961 to Returning Officer.",
+      "category": "Information on EVM & VVPAT",
+      "topic_tags": [
+        "VVPAT slip's Verification",
+        "VVPAT slip's Counting"
+      ],
+      "evidence_media": [
+        {
+          "media_type": "pdf",
+          "media_url": "https://www.eci.gov.in/eci-backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfXbEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2FzVx8fLfn2ReU7TfrqYobgIiuXNfXaCGl%2FvBZjsedx9y8HLjkYCS9Uw8cvIK%2B0g6WlVOKtZxiuAmRXZmERwDpFTBc4%2BmHj5O38zlXd7kmzTbK%2BcKU2Cg7T42u%2BY0yIF%2BmQ",
+          "description": "Official detailed manual counting of votes"
+        }
+      ],
+      "actionable_intent": "Spread_correct_info"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "text_content": "There is no scientific basis to such false claims. ECI has introduced a New Symbol Loading Unit with additional transparency for the purpose of symbol loading in VVPAT. This new SLU allows the symbols to be displayed on the TV/Monitor so that all stakeholders including political party representatives witness the symbol getting uploaded to VVPAT in the first level checking process and during the preparation of EVM/VVPAT.\n\nVVPAT features two different types of memories. One is used to store the software, which is one time programmable making it impossible to tamper using malware. The symbols that are loaded into the VVPAT are in the image file and are stored in flash memory. It is impossible to alter VVPAT software since these two memories are different from each other. Malware cannot be put up intentionally or unintentionally on SLU/VVPAT. Votes are recorded only in Control Units and not in VVPATs. VVPATs are only meant for the voter to confirm his/her vote by way of printing of the ballot slip which is stored in a sealed box under the printer and viewing window of VVPAT. VVPAT is a device that remains under the control of the Control Unit and receives instructions from the CU to print the ballot slip corresponding to the key pressed at the BU by the Voter. VVPAT sends an acknowledgement to the CU to mark the completion of successful printing. CU then initiates the cut of VVPAT slip. VVPAT slips so printed remains visible to the voter for about 7 seconds before the slip is cut and made to fall successfully in the sealed ballot slip compartment. Only after a successful completion of all these steps, the VPPAT sends a successful printing and cutting acknowledgement to the CU, after which CU records the vote electronically.",
+      "category": "Information on EVM & VVPAT",
+      "topic_tags": [
+        "VVPAT hacking",
+        "VVPAT security"
+      ],
+      "evidence_media": [
+        {
+          "media_type": "video",
+          "media_url": "https://www.youtube.com/watch?v=SBvSq3Hfve0",
+          "description": "Detailed video explanation of VVPAT security"
+        }
+      ],
+      "actionable_intent": "Spread_correct_info"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "text_content": "Since 2001, the issue of possible tampering of EVM has been raised before various High Courts. After detailed analysis of the various aspects of the technological security and administrative safeguards around the use of EVMs, the credibility, reliability and robustness of the EVMs has been validated by the various High Courts in all the cases. In some of these cases, the Hon'ble Supreme Court has also dismissed appeals filed by some petitioners against High Court orders, which were in favour of the EVMs. In some cases recently, the Hon’ble courts have also levied penalty, referring the petitions as Publicity Interest Litigation. There is no legal ban on use of EVMs.",
+      "category": "Information on EVM & VVPAT",
+      "topic_tags": [
+        "EVM security",
+        "EVM tampering"
+      ],
+      "evidence_media": [
+        {
+          "media_type": "video",
+          "media_url": "https://www.youtube.com/watch?v=SBvSq3Hfve0",
+          "description": "Detailed video explanation of EVM security"
+        }
+      ],
+      "actionable_intent": "Spread_correct_info"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "text_content": "There is no need to air condition the room/hall where EVMs are stored. What is required is only to keep the room/hall free from dust, dampness and rodents as in the case of ballot boxes. EVMs work on a battery and there is absolutely no chance of any voter getting an electric shock at the time of pressing the 'blue button' or at any time of handling the EVM.it is not possible to vote more than once on an EVM. As soon as a particular button on the Ballot Unit is pressed, the vote is recorded for that particular candidate. The machine does not respond to further button presses on the BU. This way the EVMs ensure the principle of “one voter, one vote”. The next vote is enabled only when the Presiding Officer in-charge of the Control Unit releases the Ballot by pressing the Ballot Button on the Control Unit after checking and sending the next voter. This is a distinct advantage over the ballot paper system. EVM and VVPAT do not require any external power supply. EVM and VVPAT run on their own battery power-packs supplied by Bharat Electronics Limited & Electronics Corporation of India Limited. EVM runs on a Power Pack of 7.5 Volts and VVPAT runs on a power-pack of 22.5 Volts.The EVMs have been devised and designed by the Technical Experts Committee (TEC) of the Election Commission in collaboration with two Public Sector undertakings viz., Bharat Electronics Ltd., Bangalore (Under Ministry of Defence) and Electronic Corporation of India Ltd. Hyderabad (Under Department of Atomic Energy). The EVMs are manufactured by the above two undertakings.",
+      "category": "Information on EVM & VVPAT",
+      "topic_tags": [
+        "EVM Electricity dependency",
+        "EVM manufacturing"
+      ],
+      "evidence_media": [],
+      "actionable_intent": "Spread_correct_info"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "text_content": "Political Parties are involved in following Election related Activity/Process\n\n \n\nOpening and Closing of EVM warehouse\n\n \n\nDuring non-election period till finalization of list of the contesting candidates, EVM-VVPAT warehouses are opened/closed (for any purpose like movement, inspection etc.) in the presence of the representatives of National and State Recognised Political Parties.\n \n\nWith finalization of list of the contesting candidates, candidates and their representatives are involved while opening and closing of EVM-VVPAT warehouses/strong room.\n \n\nOpening and Closing of EVM warehouse/strong room is done under videography.\n \n\nFirst Level Checking of EVMs and VVPATs\n\n \n\nFirst Level Checking of EVMs and VVPATs is conducted before every election by the authorised engineers of Bharat Electronics Limited (BEL) and Electronics Corporation of India Limited (ECIL) at DEO level.\n \n\nFor this purpose, National and State Recognised Political Parties at district headquarters are invited in writing by DEO concerned at least two days before the beginning of FLC and a copy is endorsed to state headquarters.\n \n\nThe representatives of National and State Recognised Political Parties are involved to oversee entire FLC process.\n \n\nHigher mock poll is conducted in 5% randomly selected EVMs and VVPATs (i.e. 1200 votes in 1% EVMs, 1000 votes in 2% EVMs and 500 votes in 2% EVMs). The electronic result of EVM is tallied with the VVPAT slips count. The representatives of National and State Recognised Political Parties are allowed to pick 5% EVMs and VVPATs randomly and also to do mock poll.\n \n\nList of FLC ok EVMs and VVPATs is shared with all National and State Recognised Political Parties.\n \n\nThe representatives of National and State Recognised Political Parties are allowed to sign the seals, forms, register during FLC.\n \n\nTaking out of EVMs and VVPATs for Training and Awareness after FLC\n\n \n\nAfter completion of FLC, maximum up to 10% EVMs and VVPATs are taken out for awareness and training purpose in the presence of National and State Recognised Political Parties.\n \n\nThe list of awareness and training EVMs and VVPATs is shared with them.\n \n\nRandomizations of EVMs and VVPATs\n\n \n\nFirst randomization of EVMs and VVPATs is conducted in the presence of National and State Recognised Political Parties to allocate EVMs and VVPATs Assembly constituency/ segment-wise.\n \n\nList of first randomized EVMs and VVPATs (AC/AS-wise) is shared with National and State Recognised Political Parties.\n \n\nAfter finalization of list of contesting candidate, list of first randomized EVMs and VVPATs (AC/AS-wise) is also shared with contesting candidate.\n \n\nSecond randomization of EVMs and VVPATs is conducted, before commissioning of EVMs and VVPATs, in the presence of contesting candidates to allocate polling station wise and reserve machines.\n \n\nThe list of second randomized EVMs and VVPATs is shared with contesting candidates.\n \n\nCommissioning of EVMs and VVPATs\n\n \n\nCommissioning of EVMs and VVPATs for use in poll is done in the presence of contesting candidates.\n \n\nCandidates/their representatives are allowed to sign the seals used in sealing EVMs and VVPATs.\n \n\nHigher mock poll is conducted in 5% randomly selected EVMs and VVPATs by casting 1000 votes. The electronic result of EVM is tallied with the VVPAT slips count. Candidates/their representatives are allowed to pick 5% EVMs and VVPATs randomly and also to do mock poll.\n \n\nDispersal of EVMs and VVPATs with Polling Parties\n\n \n\nDispersal of EVMs and VVPATs are done in the presence of the contesting candidates.\n \n\nMock Poll and Actual Poll on Poll Day\n\n \n\nMock Poll on Poll day is conducted at every polling station in the presence of the polling agents nominated by the contesting candidates.\n \n\nPolling agents nominated by the contesting candidates are allowed to remain in polling stations to observe polling process.\n \n\nPolling agents are allowed to sign the seals used in sealing EVMs and VVPATs (before commencement of poll and close of poll).\n \n\nTransportation of polled EVMs and VVPATs from Polling Stations to Collection Centre\n\n \n\nCandidates/Polling agents are allowed to follow vehicles carrying polled EVMs and VVPATs from polling station to collection centre.\n \n\nStorage of Polled EVMs and VVPATs\n\n \n\nPolled EVMs and VVPATs are stored in the strong room in the presence of Candidates/their representatives.\nCandidates/their representatives are also allowed to put their seals on the locks of the strong room.\nCandidates/their representatives are also allowed to monitor storage and security of polled EVMs and VVPATs.\n \n\nCounting Day\n\n \n\nPolled Strong Room is opened in the presence of Candidates/their representatives, Returning Officer, ECI Observer on counting days.\n \n\nCounting of votes is done in the presence of candidates and counting agents appointed by them.\n \n\nAfter completion of counting of votes, VVPAT slips are taken out from VVPATs and stored in black envelope in the presence of the candidates/their representatives.\n \n\nAfter counting of votes, EVMs and VVPAT slips are kept in the strong rooms in the presence of candidates/their representatives. They are allowed to put their seals on the locks of the strong rooms.",
+      "category": "Information on conduct of election",
+      "topic_tags": [
+        "Steps in conduct of Election",
+        "Election process"
+      ],
+      "evidence_media": [],
+      "actionable_intent": "Spread_correct_info"
+    }
+  },
+  {
+      "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "text_content": "Any person whose name is not on electoral rolls simply can’t vote even if he shows EPIC or any other identity document. It is absolutely essential that the name of the person should be  in the voter list (electoral roll) in order to cast his/her vote. Further, the message wrongly ascribes ‘challenge vote’ to be a concept that comes under section 49A. In reality, Section 49A of the Conduct of Elections Rules, 1961, talks about the design of electronic voting machines (EVMs), and has no mention of ‘challenge vote’. Rule 36 of the Conduct of Elections Rule, 1961 provides for challenging of identity of the person claiming to be a particular elector. The rule provides that the polling agent present at the polling station may challenge the identity of the person and the presiding officer after following due procedure provided in the rule 36 has to decide whether the challenge of identity by the polling agent has established or not. In case the challenge is not established i.e. the person coming to vote is a genuine elector, the Presiding Officer will allow him to vote. In case the challenge is established, i.e. the person is found to be not a genuine elector, the Presiding Officer shall debar that person from voting.",
+      "category": "Information on eligiblity to vote",
+      "topic_tags": [
+        "General info on eligiblity on voting",
+        "eligiblity for challenged voters"
+      ],
+      "evidence_media": [],
+      "actionable_intent": "Spread_correct_info"
+    }
+  }
+]

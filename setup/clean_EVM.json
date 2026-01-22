@@ -1,0 +1,853 @@
+[
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A fake & misleading news is circulated that VVPAT slips from GE 2024 are being destroyed in Andhra Pradesh.",
+      "Reality": "Paper rolls are removed from VVPATs after 10 days of completion of counting of votes, if no EVM Checking & Verification request is received. Additionally,VVPAT slips taken out after counting of votes are preserved in sealed black envelopes as per Rule 94 of CoE Rules 1961 i.e.for 1 year & even beyond till disposal of EP, if any. No VVPAT slips of GE to LS2024 & Andhra Pradesh LA are destroyed.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://x.com/ceoandhra/status/1826595984014725476?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "171 additional votes being polled in one of the  polling station in Dima Hasao, district of Assam in General Election 2024.",
+      "Reality": "The post is misleading. It refers to an incident from Assam State elections in 2021 which is clarified by CEO Assam. https://twitter.com/ceo_assam/status/1786407332068430073",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://x.com/ecisveep/status/1786955514909176286?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A video was shared in which a voter had raised allegation regarding functioning of EVM/ VVPAT.",
+      "Reality": "The video seen was a case of mob violence in a Polling Station (3/21 Khurai Assembly Segment) in Imphal East and Re-poll had already been done in the said Polling Station on 22 April, 2024. No case of mismatch on the button pressed in the Ballot Unit and Paper Slip generated through VVPAT had been alleged by anyone or found.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/CeoManipur/status/1784128759081381998?t=mLvxlMTEha9oGO5-wWFJNg&s=08"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "Reports of non-activation of a ballot unit by a polling official in a polling booth in Shantinagar in Bengaluru, circulating on social media & WhatsApp as an audio message",
+      "Reality": "These reports were incorrect & baseless. The correct position was outlined by DEO Bengaluru after due enquiry. https://x.com/DEOBBMP/status/1783809044047860058?t=zDJrKlNaoAEzllMBOqffcA&s=08",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://x.com/SpokespersonECI/status/1784079950309695800?t=HGPt6fVMpAGt2FxRBTaxxw&s=08"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A video was shared on social media alleging tampering with EVM & VVPAT slips in General Election 2024.",
+      "Reality": "Claim is completely false & baseless. Video was old & it’s a post-counting exercise as per ECI guidelines. Already clarified by DEO Bhavnagar on Dec 15, 2022 https://twitter.com/Collectorbhav/status/1603309549242679297",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ecisveep/status/1782672650554515514?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "An old video of 2017 from Bhind, MP is being shared with false claim regarding EVM/ VVPAT.",
+      "Reality": "Allegations made in video are completely false. Accuracy of functioning of EVM&VVPAT is beyond doubt. Press note dated April 7, 2017 here https://t.co/GZIqjFxsr4",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ecisveep/status/1779795307334950927?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A false claim was made in a video regarding mismatch of electors & votes polled in #EVM in Varanasi Parliamentary Constituency during General Elections 2019. Another false claim was made quoting ECI letter that mismatch between total electors & votes polled in EVM were found in 373 PCs in General Elections 2019",
+      "Reality": "The claim was misleading & fake. Total Electors in Varanasi PC were 18,56,791. Total votes polled & counted in EVM-10,58,744 & postal votes-2085 . Also, there is no communication issued by ECI regarding mismatch between electors and votes polled in EVM in 373 PCs during General Elections 2019. For PC wise details of electors and votes polled during GE 2019 can be accessed here https://www.eci.gov.in/statistical-reports",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://x.com/ecisveep/status/1776892407814234448?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "15 lakh EVMs are missing.",
+      "Reality": "The claim is misleading and fake . Facts are twisted & presented selectively. There are n o missing EVMs. Honble Supreme Court has also dismissed the petitions on missing EVMs.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ecisveep/status/1776237471388619005?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A story was published in a local newspaper in Chhattisgarh that ECI has given directions for voting through ballot paper & not EVM in LokSabhaElection2024",
+      "Reality": "The story is completely Fake and baseless. No such directions have been given.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://x.com/ecisveep/status/1773549812547240307?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A video clipping was shared on social media during Karnataka Assembly Elections 2023 claiming that  local people created a ruckus after the EVM machines were found in a car belonging to a political party",
+      "Reality": "Soon after the incident was reported, DEO Vijayapura busted the false claim stating the EVMs were reserve EVMs which were transported in Sector Officer Vehicle. FIR was registered against the persons who stopped the vehicle and damaged the EVMs.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/DCVijayapura/status/1656302798139703296?s=20"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A YouTube channel claimed that ECI has put a ban on use of EVMs due to protest by over 2 crore people",
+      "Reality": "There is no such announcement regarding the ban on use of Electronic Voting Machines made by the Election Commission of India.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "During the UP Assembly Elections 2022, a political party twitter handle shared that at one of the polling stations in Farrukhabad AC symbol of Cycle is not being shown in the EVMs.",
+      "Reality": "The information in the tweet shared was false. A complaint was received at the polling station that SP candidate photo was not visible in the VVPAT slip. In this regard, the Presiding officer informed the voter that VVPAT slip displays only the symbol of the party and not the photo of the candidate.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/fatehgarhpolice/status/1495330966759370752?s=20&t=71ce4zEIxyy9PbP1IgZ04A"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A news article in a magazine claimed that 20 lakh EVMs are missing from the possession of the Election Commission of India (ECI).",
+      "Reality": "The news report is based on inaccurate & specious misinterpretation of partial facts obtained from RTI from multiple Public Authorities. All EVMs are safe and stored as per ECI protocols and Guidelines. EVMs  are manufactured by two Public Sector undertakings viz., Bharat Electronics Ltd., Bangalore and Electronic Corporation of India Ltd., Hyderabad.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/SpokespersonECI/status/1126450971926622209"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A digital news channel claimed that Chief Justice of India has taken action against the Election Commission of India and EVMs will not be used in elections",
+      "Reality": "The claim made in the news is fake.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A digital news channel claimed that a ban on Electronic Voting Machines has been  approved by the President of India. Ballot papers to be used for elections in India.",
+      "Reality": "The claim made in the news is fake. Since 2004 EVMs have been used in all General Elections/Bye Elections to the Parliamentary and Assembly Constituencies. Further, Voter Verifiable Paper Audit Trail (VVPAT is being used in all General /Bye Election to Parliamentary & Assembly Constituencies to provide even greater transparency to the poll process since 2017.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A digital news channel claimed that the Election Commission of India has decided to put a ban on the use of Electronic Voting Machines (EVMs",
+      "Reality": "There is no such announcement regarding the ban on use of Electronic Voting Machines made by the Election Commission of India. Since 2004 EVMs have been used in all General Elections/Bye Elections to the Parliamentary and Assembly Constituencies. Further, Voter Verifiable Paper Audit Trail (VVPAT is being used in all General /Bye Election to Parliamentary & Assembly Constituencies to provide even greater transparency to the poll process since 2017. The VVPAT is an additional unit attached to the EVM, which prints a small slip of paper that carries the symbol, name and serial number of the candidate voted by Voter, which is visible in the viewing window. The voter after pressing the button on Ballot Unit can view the printed slip on VVPAT through the viewing window and thus can verify that the vote is recorded for the candidate of his/her choice.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A  tweet with a media clipping was shared claiming that former Chief Election Commissioner of India Sh. T.S. Krishnamurthy had opined that a particular party won assembly elections by hacking EVMs.",
+      "Reality": "The media clipping shared was fake. This fake news is being shared during every election cycle since 2018 This disinformation was debunked by former CEC himself Shri T S Krishnamoorthy, soon after this matter had come to his knowledge in 2018. Refuting this fake news Sh. Krishnamurthy had issued a statement saying \"It has been brought to my notice that a fake news which had appeared in a Hindi newspaper quite some time back is being activated and re-circulated as if that I express doubts about the credibility of the Electronic Voting Machine, EVM, in the conduct of elections in India. This is utterly false and mischievous to circulate a wrong impression in the ensuing elections. I would like to reiterate that the EVMs are most credible and I have no doubt about its efficacy and reliability. Electronic Voting Machine is indeed our Nation’s pride and that there cannot be any doubt whatsoever about its credibility\".",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/SpokespersonECI/status/1370004314677075975?ref_src=twsrc%5Etfw"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "EVM can be Hacked.",
+      "Reality": "‘Hacking' is unauthorised access to or control over computer network security systems for some illicit purpose. In the case of ECI EVMs, the 'Hacking' is not possible for following reasons: The EVM is a stand-alone machine and is not connected to any network through wire or wirelessly. The Software is one time Programmable and Microcontroller can neither be read nor modified.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A message is being circulated on Whats App that Govt employees cannot cast their vote through postal ballot.",
+      "Reality": "Message is misleading & fake. Eligible Officials on election duty can cast their vote through postal ballot at designated Voter Facilitation Centre",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ecisveep/status/1775721667219886577?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A post claimed that as per the Election Laws (Amendment Bill, 2021, it is now mandatory to link Voter ID & Aadhaar",
+      "Reality": "THE ELECTION LAWS (AMENDMENT ACT, 2021 has made submission of AADHAAR details as voluntary. No entry in the electoral roll shall be deleted on the ground of non-submission of AADHAAR. Existing voters can voluntarily submit their AADHAAR details by filling form 6B. For the new Voters, a provision has already been included in the registration Form 6.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ECISVEEP/status/1623556674400452609"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A post was being shared on whats app groups that those who hold Indian Passport can now vote for 2019 elections. They can enrol as an NRI voter on ECI website.",
+      "Reality": "There is no online voting facility for any category of voter in India. Overseas Indians may submit application for enrolment in form 6A online at https://voters.eci.gov.in or by using Voter helpline mobile app. To cast a vote, an Overseas voter may come to his/her designated Polling station with Passport as document for identification.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/SpokespersonECI/status/1098595992457437184?t=c0a9R4fd9eXxkrhBkuvb4w&s=08"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A message is being shared on Whatsapp regarding schedule for State Assembly elections in Maharashtra & Haryana.",
+      "Reality": "The message is fake. No dates have been announced so far by ECI. Election Schedule is announced by ECI through a press conference.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://x.com/ecisveep/status/1816076336898756650?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "An Old video depicting rigging during Parliament elections in Telangana is being circulated on WhatsApp.",
+      "Reality": "The post is fake & misleading. Video mentioned is neither related to conduct of election in Bahadurpura AC of Telangana in General Election 2024 nor related to any General Election conducted by Election Commission of India.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://x.com/ecisveep/status/1791365025711665403?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A  message was shared on social media that functionaries of a party were distributing money in Kakinada Andhra Pradesh & marking voters finger with indelible ink to prevent them from voting.",
+      "Reality": "The claim was false. Clarification was issued by Joint Collector Kakinada. https://twitter.com/CEOAndhra/status/1789528156891763159",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ecisveep/status/1789561586664841277?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A video was shared on X with misleading claim about conduct of polling at a PS in Uttar Pradesh in Phase 3 of General Election 2024",
+      "Reality": "Claim made was false.  No voter was denied their right to cast vote.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ecisveep/status/1788083611423432865?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "To give duplicate votes artificial natural looking finger cover are being made for distribution in West Bengal.",
+      "Reality": "An old image of prosthetic fingers from Japan is being shared with false claims of duplicate votes in West Bengal in ongoing General Elections 2024 The claim made is false. This is not related to General Election 2024.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ecisveep/status/1786333998756528349?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A video was shared on X in which a Voter wass destroying EVM inside a polling station, with a mischievous intent to relate it to  Lok Sabha Election 2024.",
+      "Reality": "It is old an old video from Karnataka Assembly Election 2023. The same has been clarified by CEO Karnataka https://twitter.com/ceo_karnataka/status/1784091400809685152",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://x.com/ecisveep/status/1784116331543154711?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A video is circulated on X with false claims on conduct of elections in General Election - 2024.",
+      "Reality": "The allegations made in this post are false & misleading. The video mentioned pertains to a mock poll in Assam, not actual poll. Already clarified by DEO Karimganj https://twitter.com/DcKarimganj/status/1784614828725993833?s=08",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ecisveep/status/1784885701160714354?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "Voter turnout exceeding 100 % in few polling booths in 1- West Tripura Parliamentary Constituency during Lok Sabha Election- 2024.",
+      "Reality": "This information is completely misleading. 1-Within the West Tripura Parliamentary constituency, there have been some polling stations where a large number of election officials voted under EDC (Election Duty Certificate) in those centers due to which the polling percentage was more than 100%.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ceotripura/status/1783135550318559729?t=2lyl9QShAcwD-rXHYpya7g&s=19"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "An ECI order containing multiple directions on conduct of elections in ongoing Lok Sabha Elections 2024.",
+      "Reality": "No such order was issued by ECI. The above mentioned order was fake.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ecisveep/status/1775362781874647122?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A fake message was shared on Whats app regarding schedule for LokSabhaElections2024.",
+      "Reality": "The message was Fake. Election Schedule is announced by the Commission through a press conference.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://x.com/ecisveep/status/1752208917197996167?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A video was found circulating on Whats App making several fictitious claims about the voting process.",
+      "Reality": "The video was fake.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://x.com/ECISVEEP/status/1739891209126977866?s=20"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A tweet was shared saying that  Indelible ink being used by the Election Commission of India is  produced from the fat of an animal and dissuaded people from voting during Lok Sabha Elections 2019..",
+      "Reality": "Indelible ink is made from Silver Nitrate. This indelible ink was indigenously developed by India Council of Scientific & Industrial Research in 1951. Since 1962, Mysore Paints & Varnish Limited has been manufacturing this ink for the Election Commission.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "During the Uttar Pradesh Assembly Elections 2022, a news channel claimed that the Chief Justice of India has ruled that re-elections would be done for 131 seats in UP.",
+      "Reality": "No repolls were announced by ECI",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/PIBFactCheck/status/1605077164315283456?s=20&t=OXSw_oiK9TzXZPsm8WtnUg"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A social media post claimed that for the Uttar Pradesh Assembly Elections 2022, police personnel from Gujarat were deputed for duty in Varanasi",
+      "Reality": "It was confirmed by officials that no personnel from Gujarat police were deputed on duty for the elections.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/PIBFactCheck/status/1500743243751108610?s=20&t=uGpJse4acpEkhBZPe0teBg"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A document was doing rounds on social media claiming that the dates for 2021 WestBengal Legislative Assembly elections have been declared by the Election Commission of India.",
+      "Reality": "This claim was Fake. No such announcement was made by the Election Commission at that time.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/PIBFactCheck/status/1361643492175458304?s=20&t=GpWgtMx3GgljQqgs6bSU_A "
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A digital news channel claimed that during Presidential Elections 2022, votes casted for Smt. Droupadi Murmu were declared invalid",
+      "Reality": "No such declaration given by Election Commission of India. Smt. Droupadi Murmu was elected as the 16th President of India https://eci.gov.in/files/file/14336-press-note/",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/PIBFactCheck/status/1613432563875598336?s=20&t=WShDkiXVv4EEwEktDAHhDg"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "ECI is being tagged on many occasions for matters related to conduct of  local body elections in various states/UTs",
+      "Reality": "As per the Constitution of India, Election Commission of India has no role in the conduct of local body elections. These are conducted by separate authorities i.e. State Election Commissions under Article 243 K & 243 ZA of the Constitution of India.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ECISVEEP/status/1495707428461379588?s=20&t=N5a0iKtQCM9TyICyFLrA2g"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A media clipping was shared mentioning that Rs 350 will be deducted from the bank account of the voters by the Election Commission,  if a voter does not cast his vote on the polling day.",
+      "Reality": "Voting is not compulsory in India. There is no proposal by the Election Commission of India to deduct money from the bank account of voters. The article shared in the post was a prank article.  Later, the paper also issued a clarification that it was meant to be a joke on the occasion of an Indian festival- Holi.This fake article is circulated during every elections.",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ECISVEEP/status/1775003876812591230?t=w-UWuH2w3bKAIi2YluZgZA&s=08"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  },
+  {
+    
+    "payload": {
+      "record_type": "official_truth",
+      "source_url": "https://mythvsreality.eci.gov.in/details/evm",
+      "source_name": "ECI Myth vs Reality",
+      "trust_score": 1.0,
+      "debunked_myth": "A person in a video posted on a YT Channel was claiming that EVM can be hacked.",
+      "Reality": "Claim is blatantly wrong & EVM shown is not ECI EVMs. EVM in video is Fake . ECI EVM cannot be hacked or manipulated. For more details on EVM https:// eci.gov.in/evm-vvpat",
+      "category": "Busted fake news",
+      "topic_tags": [
+        "Election scams",
+        "Lies around elections"
+      ],
+      "evidence_media": [
+        {
+          "type": "tweet",
+          "url": "https://twitter.com/ecisveep/status/1779066701587661262?s=48&t=qTngH-_Nmwr8i5wU_s84YQ"
+        }
+      ],
+      "actionable_intent": "ignore_and_report"
+    }
+  }
+]

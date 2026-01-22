@@ -1,0 +1,81 @@
+[{
+   "payload": {
+    "record_type": "official_visual_truth",
+    "media_type": "image",
+    "category": "Polling Station essential",
+    
+    "title": "SET UP OF POLLING STATION FOR SINGLE ELECTION",
+    
+    "visual_concepts": [
+      "Voting Compartment",
+      "Enough Space for Voters",
+      "Seperate entrance and exit for voters"
+    ],
+    
+    "description": "Diagram of Model Polling Station Showing the layout when the polling party consist of 3 Polling Officers at a single election Presiding Officer can make minor modifications in the actual set up of the Polling Station, if considered necessary; but make sure that: • There is enough space for the voters to wait outside the Polling Station; • There is separate waiting space for men and women as far as practicable; • There is separate entrance and exit for voters;  Even if there is only one door to the room housing the Polling Station, separate entrance and exit can be provided with the help of bamboos and ropes in the middle of the doorway. Sufficient light is available inside the Voting Compartment, • No direct lighting is placed over or in front of the Voting Compartment, • Secrecy of voting is not violated; and • Voting Compartment is not placed near the window/door.",
+
+    "source_name": "ECI Manual on Handbook for Polling Officer",
+    "source_url": "https://www.eci.gov.in/eci-backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfXbEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2FzVx8fLfn2ReU7TfrqYobgIiuXNfXaCGl%2FvBZjsedx9y9%2F1T74fErZadTk033PJJGyk69kQQkKU0sB2BFes6wS%2FqWV5K80PMd4Lc0i1A%2BBPBExEz9r03E0G0ttpKMyzNEk",
+    "page_number": 13,
+    "image_url": "https://github.com/Keshav-CUJ/Qdrant-convole/raw/main/images/Layoutofpollingstation.png", 
+    "trust_score": 1.0,
+    
+    "actionable_intent": "educate_procedure",
+    "agent_guidance": "If user claims that there is no proper layout of polling station, explain that this is the model layout of polling station as per the ECI Manual."
+  }
+},
+ {
+   "payload": {
+    "record_type": "official_visual_truth",
+    "media_type": "image",
+    "category": "Vote Counting essential",
+    
+    "title": "Arrangements for barricading for Counting Tables",
+    
+    "visual_concepts": [
+      "barricading for Counting Tables",
+      "Counting Agents",
+      "Mesh of counting tables"
+    ],
+    
+    "description": "In each counting hall, barricades or wire mesh will be provided for each counting table so that the EVMs are not physically approachable to the Counting Agents. The counting agents will not cross the wire mesh or barricades and their seating arrangements will be beyond the wire mesh or barricades. However, the counting agents will be provided all reasonable facilities to view the whole counting process at the counting table. The Returning Officer will ensure that the barricades or wire mesh are transparent or that the space in between or above the bamboos or other material used for purpose of erecting barricades is adequate to permit full viewing of the counting process. The RO has to adopt such approach as he/she may deem fit to attain the objective of ensuring that the EVMs are not handled by unauthorized persons or tampered with in any manner in the process of counting. Every person inside the counting hall is required by law to maintain, and to aid in maintaining, the secrecy of voting and should not communicate to any person any information calculated to violate such secrecy. They should note that any person contravening the provisions of law in this respect is liable to be punished with imprisonment for a term which may extend to 3 months or with fine or with both (Section 128 of the R.P. Act, 1951). 6.2 Before the commencement of the counting of votes, the Returning Officer will read out and explain the provisions of the above-mentioned Section 128 for the information of all present and for compliance on their part.",
+
+    "source_name": "ECI Manual on Handbook for Counting Agents",
+    "source_url": "https://www.eci.gov.in/eci-backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfXbEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2FzVx8fLfn2ReU7TfrqYobgIiuXNfXaCGl%2FvBZjsedx9y8HLjkYCS9Uw8cvIK%2B0g6WlVOKtZxiuAmRXZmERwDpFTBc4%2BmHj5O38zlXd7kmzTbK%2BcKU2Cg7T42u%2BY0yIF%2BmQ",
+    "page_number": 6,
+    "image_url": "https://github.com/Keshav-CUJ/Qdrant-convole/raw/main/images/ArrangementsforbarricadingforCountingTables.png", 
+    "trust_score": 1.0,
+    
+    "actionable_intent": "educate_procedure",
+    "agent_guidance": "If user claims this image as politicians are fighting for votes, explain that this is the arrangements for barricading for counting tables as per the ECI Manual."
+  }
+},
+{  
+  "payload": {
+    "record_type": "official_visual_truth",
+    "media_type": "image",
+    "category": "EVM and VVPAT",
+    
+    "title": "BACKPACKS TO CARRY EVMS - INDICATIVE SAMPLES",
+    
+    "visual_concepts": [
+      "Man carrying EVM in a backpack",
+      "EVM inside backpack",
+      "safeguarding of EVMs"
+    ],
+    
+    "description": "Backpacks to carry EVMs as well as Backpacks for carrying polling materials to aid hand free movement for polling parties in difficult terrain and safeguard the machines.However, CEOs may further improve upon them based on local situations and needs; in which case the following aspects are to be necessarily considered while designing the backpacks: • The logo of ECI is necessarily to be imprinted on all the backpacks. • There will be provision of waist belt, straps, good quality buckles with lock, strong and smooth zips. • Padded head straps may be added as optional from the middle portion of the VVPAT backpack especially for hilly terrain if needed. • The length and width of shoulder straps for VVPATs should be adjustable. • The back pack shall be water proof. • In case of VVPAT backpack, extra padding for back support should be incorporated. iii. In case of simultaneous elections, the backpack for BU should have two pockets for carrying two BUs. Similarly, the backpack for CU should have two pockets for carrying two CUs. However, two separate backpacks should be used for carrying VVPATs. iv. Tagging system for the identification of AC/AS, including the details of polling booth number is to be used. In case of simultaneous elections, two different colours of the tags have to be used as given: AC election - Pink colour, PC election - White colour.",
+
+    "source_name": "ECI Manual on EVM",
+    "source_url": "https://www.eci.gov.in/eci-backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfXbEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2FzVx8fLfn2ReU7TfrqYobgIkdEHWX9ACxJNMml8yLb2ntu30r5vkFINDDv68Ej8%2BqrkA1aSdxCBZwXyXF2UoBgHZ8eNBgMDK%2BJCvUd6uvipvh04W2f3feJzPQw56J6zG%2Bx",
+    "page_number": 49,
+    "image_url": "https://github.com/Keshav-CUJ/Qdrant-convole/raw/main/images/EVMbackpack.png", 
+    "trust_score": 1.0,
+    
+    "actionable_intent": "educate_procedure",
+    "agent_guidance": "This is a backpack to carry EVMs as well as Backpacks for carrying polling materials to aid hand free movement for polling parties in difficult terrain and safeguard the machines."
+  }
+
+}
+  
+]
