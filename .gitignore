@@ -2,3 +2,4 @@
 venv/
 setup/
 __pycache__
+check_models.py

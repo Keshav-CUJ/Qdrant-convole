@@ -1,5 +1,5 @@
 # src/state.py
-from typing import TypedDict, Annotated, List
+from typing import TypedDict, Annotated, List, Optional
 from langgraph.graph.message import add_messages
 from langchain_core.messages import BaseMessage
 
@@ -13,4 +13,4 @@ class AgentState(TypedDict):
     # Workflow Data (Passing data between nodes)
     search_plans: List[dict]      # Output of Query Generator
     retrieved_docs: str    # Output of Search Tool
-    critique_count: int    # For the feedback loop
+    current_image_path: Optional[str] = None

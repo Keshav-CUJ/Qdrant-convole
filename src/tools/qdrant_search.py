@@ -7,30 +7,20 @@ from fastembed import SparseTextEmbedding
 from PIL import Image
 import requests
 from io import BytesIO
-from dotenv import load_dotenv
+
+from src.config import (
+    client, 
+    dense_text_model, 
+    dense_image_model, 
+    sparse_text_model,
+    DATA_COLLECTION_NAME
+)
 
 
-load_dotenv()
-qdrant_api_key = os.getenv("QDRANT_API_KEY")
-cluster_endpoint = os.getenv("QDRANT_CLUSTER_ENDPOINT")
 
 
 # --- CONFIGURATION ---
-COLLECTION_NAME = "Hybrid_Collection_CONVOLVE"
-
-client = QdrantClient(
-    url=cluster_endpoint,
-    api_key=qdrant_api_key,
-)
-
-# --- 1. LOAD MODELS (For generating query vectors) ---
-print("⏳ Loading Search Models...")
-dense_text_model = SentenceTransformer("intfloat/multilingual-e5-base")
-dense_image_model = SentenceTransformer("clip-ViT-B-32")
-sparse_text_model = SparseTextEmbedding(model_name="Qdrant/bm25")
-
-print("✅ Models Ready.")
-
+COLLECTION_NAME = DATA_COLLECTION_NAME
 
 # --- 2. HELPER: DYNAMIC FILTER BUILDER ---
 def build_filter(filter_dict):

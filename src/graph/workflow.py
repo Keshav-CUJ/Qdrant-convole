@@ -1,7 +1,7 @@
 # src/graph/workflow.py
 from langgraph.graph import StateGraph, START, END
 from src.state import AgentState
-
+from langgraph.checkpoint.memory import MemorySaver
 # Import your nodes
 from src.nodes.loader import load_memory_node   # (The Hippocampus)
 from src.nodes.researcher import (              # (The Researcher Parts)
@@ -9,6 +9,7 @@ from src.nodes.researcher import (              # (The Researcher Parts)
     search_execution_node, 
     responder_node
 )
+from src.nodes.memory import memory_update_node
 
 def build_graph():
     # 1. Initialize Graph
@@ -19,6 +20,7 @@ def build_graph():
     workflow.add_node("generate_query", query_gen_node)
     workflow.add_node("execute_search", search_execution_node)
     workflow.add_node("write_answer", responder_node)
+    workflow.add_node("memory_writer", memory_update_node)
 
     # 3. Define Edges (The Flow)
     # Start -> Load Memory -> Gen Query -> Search -> Write Answer -> End
@@ -26,7 +28,8 @@ def build_graph():
     workflow.add_edge("load_memory", "generate_query")
     workflow.add_edge("generate_query", "execute_search")
     workflow.add_edge("execute_search", "write_answer")
-    workflow.add_edge("write_answer", END)
-
+    workflow.add_edge("write_answer", "memory_writer")
+    workflow.add_edge("memory_writer", END)
+    checkpointer = MemorySaver()
     # 4. Compile
     return workflow.compile()
