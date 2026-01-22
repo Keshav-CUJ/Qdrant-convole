@@ -1,4 +1,3 @@
-```markdown
 # 🗳️ Misinformation Detection System on Indian Elections
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
@@ -26,7 +25,7 @@ This system is not just a chatbot; it is a **Stateful Multi-Agent System** that 
 
 The system is built on **LangGraph**, treating the conversation as a directed graph of functional nodes.
 
-```mermaid
+
 graph LR
     A[Start] --> B(Loader Node);
     B --> C{Query Generator};
@@ -37,7 +36,7 @@ graph LR
     F --> G(Memory Writer);
     G --> H[End];
 
-```
+
 
 | Node | Function |
 | --- | --- |
