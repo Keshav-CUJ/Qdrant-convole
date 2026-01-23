@@ -22,7 +22,7 @@ This system is not just a chatbot; it is a **Stateful Multi-Agent System** that 
 
 ## 🚀 Demo Video
 
-**[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=ubVz3gEq6Vw)**
+**[![Watch the video](https://stock.adobe.com/search?k=youtube+logo)](https://www.youtube.com/watch?v=ubVz3gEq6Vw)**
 
 ## 📄 Documentation
 
