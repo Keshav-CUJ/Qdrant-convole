@@ -15,14 +15,14 @@ This system is not just a chatbot; it is a **Stateful Multi-Agent System** that 
 
 ## 🚀 Try my CLI
 
-Just sign with your github and run the cli app in your browser.
+# Just sign with your github and run the cli app in your browser.
 
-# [`VS code Live share`](https://prod.liveshare.vsengsaas.visualstudio.com/join?FFA57ACBC43447A8CE9ED40C1DC1C08F133D)
+ [`VS code Live share`](https://prod.liveshare.vsengsaas.visualstudio.com/join?FFA57ACBC43447A8CE9ED40C1DC1C08F133D)
 
 
 ## 🚀 Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=ubVz3gEq6Vw)
+**[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=ubVz3gEq6Vw)**
 
 ## 📄 Documentation
 
