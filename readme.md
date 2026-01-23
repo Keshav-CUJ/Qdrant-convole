@@ -13,6 +13,22 @@
 
 This system is not just a chatbot; it is a **Stateful Multi-Agent System** that maintains a psychological profile of the user (Long-Term Memory). It uses **Hybrid Search** (Dense + Sparse) to cross-reference claims against official Election Commission manuals and performs **Visual Search** to detect tampered devices from user-uploaded images.
 
+## 🚀 Try my CLI
+
+Just sign with your github and run the cli app in your browser.
+
+[`VS code Live share`](https://prod.liveshare.vsengsaas.visualstudio.com/join?FFA57ACBC43447A8CE9ED40C1DC1C08F133D)
+
+
+## 🚀 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=ubVz3gEq6Vw)
+
+## 📄 Documentation
+
+For a detailed deep-dive into the embedding strategies and Qdrant configuration, open [`docs/index.html`](https://keshav-cuj.github.io/Info_on_Qdrant_MAS/) in your browser.
+
+
 **Key Capabilities:**
 * **Role-Based Memory:** Remembers if you are a "Presiding Officer" (needs technical rules) or a "Citizen" (needs reassurance) and adapts answers accordingly.
 * **Visual Forensics:** Upload an image of an EVM control unit or VVPAT to verify its authenticity against a database of reference images.
@@ -47,6 +63,9 @@ graph LR
 | **Memory Writer** | Uses an LLM to extract new facts/preferences and updates the `user_profiles` collection. |
 
 ---
+
+![System Architecture](./images/Picture1.png)
+
 
 ## 🛠️ Tech Stack
 
@@ -146,6 +165,9 @@ We use a **Deterministic ID** approach for Long-Term Memory (LTM).
 * We generate a UUID based on the username: `uuid5(NAMESPACE, "officer_keshav")`.
 * This ensures instant, O(1) retrieval of the user profile without similarity search overhead.
 * **Decay/Update:** The `Memory Writer` node acts as a "Scribe", summarizing the latest interaction and merging it with the existing profile, naturally discarding irrelevant details over time.
+
+
+![Process Flow of LTM](./images/Picture2.png)
 
 ---
 
