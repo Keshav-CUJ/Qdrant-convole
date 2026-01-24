@@ -1,5 +1,5 @@
 *.env
 venv/
-
+launch_agent.bat
 __pycache__
 check_models.py

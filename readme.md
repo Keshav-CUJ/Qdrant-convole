@@ -13,11 +13,33 @@
 
 This system is not just a chatbot; it is a **Stateful Multi-Agent System** that maintains a psychological profile of the user (Long-Term Memory). It uses **Hybrid Search** (Dense + Sparse) to cross-reference claims against official Election Commission manuals and performs **Visual Search** to detect tampered devices from user-uploaded images.
 
-## 🚀 Try my CLI
+## 🚀 Try my CLI Application
 
-### Just sign with your github and run the cli app in your browser.
+### [`Go To  https://mas.sudoer.xyz `](https://mas.sudoer.xyz) 
+### Just give your email, you will recieve and OTP, put it there.
+### User: agent_guest
+### password: 1234
+### And you are in my application, here you can keep user name differnet than agent_guest.
 
-###[`VS code Live share link: click this`](https://prod.liveshare.vsengsaas.visualstudio.com/join?845C36447418ACB79ED817A75FFD34E49D60)
+You are getting an ssh shell with low priveleges.
+
+### CLI Commands
+
+Inside the chat, you can use:
+
+* `/new` - Start a fresh session (clears chat history, keeps memory).
+* `/login <name>` - Switch user identity (loads a different memory profile).
+* `/image <path>` - Attach an image to your query.
+* *Example:* `/image assets/broken_seal.jpg Is this seal valid?`
+
+### 👨‍💻 Some sample quries
+
+* My name is <your name> I am from <place> I heard recently that EVM can be hacked??
+
+*  is this man stealing evm /image https://github.com/Keshav-CUJ/Qdrant-convole/raw/main/images/EVMbackpack.png 
+
+*  A digital news channel claimed that during Presidential Elections 2022, votes casted for Smt. Droupadi Murmu were declared invalid, give me proper evidence.
+
 
 
 ## 🚀 Demo Video
