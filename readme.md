@@ -16,12 +16,11 @@ This system is not just a chatbot; it is a **Stateful Multi-Agent System** that 
 ## 🚀 Try my CLI Application
 
 ### [`Go To  https://mas.sudoer.xyz `](https://mas.sudoer.xyz) 
-### Just give your email, you will recieve and OTP, put it there.
-### User: agent_guest
-### password: 1234
-### And you are in my application, here you can keep user name differnet than agent_guest.
-
-You are getting an ssh shell with low priveleges.
+* Just give your email, you will recieve and OTP, put it there.
+* User: agent_guest
+* password: 1234
+* And you are in my application, here you can keep user name differnet than agent_guest.
+* You are getting a ssh shell with low priveleges.
 
 ### CLI Commands
 
@@ -41,14 +40,15 @@ Inside the chat, you can use:
 *  A digital news channel claimed that during Presidential Elections 2022, votes casted for Smt. Droupadi Murmu were declared invalid, give me proper evidence.
 
 
+## 📄 Documentation
+
+For a detailed deep-dive into the embedding strategies and Qdrant configuration, open [`docs/index.html`](https://keshav-cuj.github.io/Info_on_Qdrant_MAS/) in your browser.
+
+
 
 ## 🚀 Demo Video
 
 [![Watch the video](./images/Youtube-logo-vector-PNG.png)](https://www.youtube.com/watch?v=ubVz3gEq6Vw)
-
-## 📄 Documentation
-
-For a detailed deep-dive into the embedding strategies and Qdrant configuration, open [`docs/index.html`](https://keshav-cuj.github.io/Info_on_Qdrant_MAS/) in your browser.
 
 
 **Key Capabilities:**
