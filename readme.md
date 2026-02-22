@@ -9,11 +9,11 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This system is not just a chatbot; it is a **Stateful Multi-Agent System** that maintains a psychological profile of the user (Long-Term Memory). It uses **Hybrid Search** (Dense + Sparse) to cross-reference claims against official Election Commission manuals and performs **Visual Search** to detect tampered devices from user-uploaded images.
 
-## 🚀 Try my CLI Application
+## Try the CLI Application
 
 ### [`Go To  https://mas.sudoer.xyz `](https://mas.sudoer.xyz) 
 * Just give your email, you will recieve and OTP, put it there.
@@ -31,7 +31,7 @@ Inside the chat, you can use:
 * `/image <path>` - Attach an image to your query.
 * *Example:* `/image assets/broken_seal.jpg Is this seal valid?`
 
-### 👨‍💻 Some sample quries
+### Some sample quries
 
 * My name is <your name> I am from <place> I heard recently that EVM can be hacked??
 
@@ -40,15 +40,17 @@ Inside the chat, you can use:
 *  A digital news channel claimed that during Presidential Elections 2022, votes casted for Smt. Droupadi Murmu were declared invalid, give me proper evidence.
 
 
-## 📄 Documentation
+## Documentation
 
 For a detailed deep-dive into the embedding strategies and Qdrant configuration, open [`docs/index.html`](https://keshav-cuj.github.io/Info_on_Qdrant_MAS/) in your browser.
 
 
 
-## 🚀 Demo Video
+##  Demo Video
 
-[![Watch the video](./images/Youtube-logo-vector-PNG.png)](https://www.youtube.com/watch?v=ubVz3gEq6Vw)
+<a href="https://www.youtube.com/watch?v=ubVz3gEq6Vw">
+  <img src="./images/Youtube-logo-vector-PNG.png" alt="Watch the video" width="400" height="225">
+</a>
 
 
 **Key Capabilities:**
@@ -59,7 +61,7 @@ For a detailed deep-dive into the embedding strategies and Qdrant configuration,
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The system is built on **LangGraph**, treating the conversation as a directed graph of functional nodes.
 
@@ -89,7 +91,7 @@ graph LR
 ![System Architecture](./images/Picture1.png)
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Orchestration:** LangGraph, LangChain
 * **Vector Database:** Qdrant (Self-hosted or Cloud) for memory and data.
@@ -104,7 +106,7 @@ graph LR
 
 ---
 
-## ⚡ Installation
+## Installation
 
 1. **Clone the repository**
 ```bash
@@ -140,7 +142,7 @@ python populate_qdrant.py  # Creates 'data points'
 
 ---
 
-## 🎮 Usage
+## Usage
 
 Run the Interactive CLI Application:
 
@@ -172,14 +174,14 @@ Inside the chat, you can use:
 * `/image <path>` - Attach an image to your query.
 * *Example:* `/image assets/broken_seal.jpg Is this seal valid?`
 
-### 👨‍💻 Some sample quries
+### Some sample quries
 
 *  https://github.com/Keshav-CUJ/Qdrant-convole/raw/main/images/EVMbackpack.png is this man stealing evm.
 *  A digital news channel claimed that during Presidential Elections 2022, votes casted for Smt. Droupadi Murmu were declared invalid, give me proper evidence.
 
 ---
 
-## 🧠 Memory Logic
+## Memory Logic
 
 We use a **Deterministic ID** approach for Long-Term Memory (LTM).
 
@@ -193,12 +195,6 @@ We use a **Deterministic ID** approach for Long-Term Memory (LTM).
 
 ---
 
-## 📄 Documentation
+### Author
 
-For a detailed deep-dive into the embedding strategies and Qdrant configuration, open [`docs/index.html`](https://keshav-cuj.github.io/Info_on_Qdrant_MAS/) in your browser.
-
----
-
-### 👨‍💻 Author
-
-Built for the Convolve 4.0 2026 by Keshav Bhatt.
+Keshav Bhatt
