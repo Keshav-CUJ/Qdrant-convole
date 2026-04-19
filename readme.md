@@ -13,32 +13,6 @@
 
 This system is not just a chatbot; it is a **Stateful Multi-Agent System** that maintains a psychological profile of the user (Long-Term Memory). It uses **Hybrid Search** (Dense + Sparse) to cross-reference claims against official Election Commission manuals and performs **Visual Search** to detect tampered devices from user-uploaded images.
 
-## Try the CLI Application
-
-### [`Go To  https://mas.sudoer.xyz `](https://mas.sudoer.xyz) 
-* Just give your email, you will recieve and OTP, put it there.
-* User: agent_guest
-* password: 1234
-* And you are in my application, here you can keep user name differnet than agent_guest.
-* You are getting a ssh shell with low priveleges.
-
-### CLI Commands
-
-Inside the chat, you can use:
-
-* `/new` - Start a fresh session (clears chat history, keeps memory).
-* `/login <name>` - Switch user identity (loads a different memory profile).
-* `/image <path>` - Attach an image to your query.
-* *Example:* `/image assets/broken_seal.jpg Is this seal valid?`
-
-### Some sample quries
-
-* My name is <your name> I am from <place> I heard recently that EVM can be hacked??
-
-*  is this man stealing evm /image https://github.com/Keshav-CUJ/Qdrant-convole/raw/main/images/EVMbackpack.png 
-
-*  A digital news channel claimed that during Presidential Elections 2022, votes casted for Smt. Droupadi Murmu were declared invalid, give me proper evidence.
-
 
 ## Documentation
 
@@ -194,6 +168,33 @@ We use a **Deterministic ID** approach for Long-Term Memory (LTM).
 ![Process Flow of LTM](./images/Picture2.png)
 
 ---
+
+## Try the CLI Application [It is currently down due to extensive API usage]
+
+### [`Go To  https://mas.sudoer.xyz `](https://mas.sudoer.xyz) 
+* Just give your email, you will recieve and OTP, put it there.
+* User: agent_guest
+* password: 1234
+* And you are in my application, here you can keep user name differnet than agent_guest.
+* You are getting a ssh shell with low priveleges.
+
+### CLI Commands
+
+Inside the chat, you can use:
+
+* `/new` - Start a fresh session (clears chat history, keeps memory).
+* `/login <name>` - Switch user identity (loads a different memory profile).
+* `/image <path>` - Attach an image to your query.
+* *Example:* `/image assets/broken_seal.jpg Is this seal valid?`
+
+### Some sample quries
+
+* My name is <your name> I am from <place> I heard recently that EVM can be hacked??
+
+*  is this man stealing evm /image https://github.com/Keshav-CUJ/Qdrant-convole/raw/main/images/EVMbackpack.png 
+
+*  A digital news channel claimed that during Presidential Elections 2022, votes casted for Smt. Droupadi Murmu were declared invalid, give me proper evidence.
+
 
 ### Author
 
