@@ -22,7 +22,7 @@ For a detailed deep-dive into the embedding strategies and Qdrant configuration,
 
 ##  Demo Video
 
-<a href="https://www.youtube.com/watch?v=ubVz3gEq6Vw">
+<a href="https://youtu.be/kCt9Ub7Nnnc?si=XtLdN4aVxu5scIPI">
   <img src="./images/Youtube-logo-vector-PNG.png" alt="Watch the video" width="400" height="225">
 </a>
 
